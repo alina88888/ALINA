@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T04:41:25.664Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36" etag="KIWENu8tG32OBNHAgjqK" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-09T05:44:53.328Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36" etag="wJbRsLtoiKi_5Zldciys" version="12.9.10" type="github">
   <diagram id="6iEOOyLnWhZnI0vwtsOj" name="Страница 1">
-    <mxGraphModel dx="1736" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,37 +18,40 @@
             <mxPoint x="179" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-1" value="РП &quot;Здравоохранение&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-1" value="РП &quot;Здравоохранение&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="349" y="330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-3" target="9MHvW2RwUfjwzeiXcqqe-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-3" value="Куратор РП" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-3" value="Куратор РП" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="410" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-4" target="9MHvW2RwUfjwzeiXcqqe-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-4" value="Руководитель РП" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-4" value="Руководитель РП" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="359" y="410" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-5" target="9MHvW2RwUfjwzeiXcqqe-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-5" value="Сроки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-5" value="Сроки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-6" value="Худченко А.Г., врио заместителя председателя Правительства Приморского края" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-6" value="Худченко А.Г., врио заместителя председателя Правительства Приморского края" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-7" value="Бардовский А.В., заместитель министра здравоохранения Приморского края" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-7" value="Бардовский А.В., заместитель министра здравоохранения Приморского края" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-8" value="1 января 2019 г-&lt;br&gt;31 декабря 2024 г" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-8" value="1 января 2019 г-&lt;br&gt;31 декабря 2024 г" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="490" y="460" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-9" value="Цели на 2024 год:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.474;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-9" target="9MHvW2RwUfjwzeiXcqqe-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-9" value="Цель на 2024 год:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="301" y="585" width="216" height="25" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-12" target="9MHvW2RwUfjwzeiXcqqe-13">
@@ -57,7 +60,7 @@
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-12" target="9MHvW2RwUfjwzeiXcqqe-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-12" value="Региональные проекты Приморского края" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-12" value="Региональные проекты Приморского края" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="770" y="400" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-13" target="9MHvW2RwUfjwzeiXcqqe-16">
@@ -81,70 +84,70 @@
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-13" target="9MHvW2RwUfjwzeiXcqqe-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-13" value="Цели к 2024:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-13" value="Цели к 2024:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1010" y="400" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-14" target="9MHvW2RwUfjwzeiXcqqe-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-14" value="Увеличение числа граждан, прошедших профилактические осмотры" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-14" value="Увеличение числа граждан, прошедших профилактические осмотры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1210" y="350" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-15" value="До 1,320 млн. чел&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-15" value="До 1,320 млн. чел&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1465" y="356.25" width="110" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-16" target="9MHvW2RwUfjwzeiXcqqe-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-16" value="Снижение смертности от инфаркта миокарда&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-16" value="Снижение смертности от инфаркта миокарда&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1210" y="420" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-17" value="До 73,1 случаев на 100 тыс. населения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-17" value="До 73,1 случаев на 100 тыс. населения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1465" y="420" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-18" target="9MHvW2RwUfjwzeiXcqqe-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-18" value="Снижение смертности от новообразований, в том числе от злокачественных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-18" value="Снижение смертности от новообразований, в том числе от злокачественных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1210" y="480" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-19" value="До 204,5 случаев на 100 тыс. населения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-19" value="До 204,5 случаев на 100 тыс. населения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1470" y="480" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-20" target="9MHvW2RwUfjwzeiXcqqe-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-20" value="Снижение младенческой смертности&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-20" value="Снижение младенческой смертности&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1210" y="550" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-21" value="до 4,5 на 1 тыс. родившихся детей" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-21" value="до 4,5 на 1 тыс. родившихся детей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1465" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-28" target="9MHvW2RwUfjwzeiXcqqe-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-28" value="Достижение укомлпектованности врачебных должностей и должностей среднего медицинского персонала в подразделениях оказывающих медицинскую помощь в амбулаторных условиях" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-28" value="Достижение укомлпектованности врачебных должностей и должностей среднего медицинского персонала в подразделениях оказывающих медицинскую помощь в амбулаторных условиях" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1210" y="610" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-29" value="До 90,9 и 95%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-29" value="До 90,9 и 95%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1470" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-33" target="9MHvW2RwUfjwzeiXcqqe-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-33" value="Увеличение доли медицинских организаций, работающих в едином информационном пространстве" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-33" value="Увеличение доли медицинских организаций, работающих в едином информационном пространстве" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1210" y="730" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-34" value="100%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-34" value="100%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1475" y="740" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-35" target="9MHvW2RwUfjwzeiXcqqe-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-35" value="Увеличение количества пролеченных иностранных граждан" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-35" value="Увеличение количества пролеченных иностранных граждан" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1210" y="810" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9MHvW2RwUfjwzeiXcqqe-36" value="до 4,5 тыс. сел." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-36" value="до 4,5 тыс. сел." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1475" y="805" width="115" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9MHvW2RwUfjwzeiXcqqe-56" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9MHvW2RwUfjwzeiXcqqe-9">
@@ -152,6 +155,63 @@
             <mxPoint x="180" y="598" as="sourcePoint" />
             <mxPoint x="230" y="585" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-57" value="Обеспечение оптимальной доступности для населения (в том числе для жителей населенных пунктов, расположенных в отдаленных&lt;br/&gt;местностях) медицинских организаций, оказывающих первичную медико-санитарную помощь; обеспечение охвата всех граждан&lt;br/&gt;профилактическими медицинскими осмотрами не реже одного раза в год (1,320 млн. человек в 2024 году); оптимизация работы медицинских&lt;br/&gt;организаций, оказывающих первичную медико-санитарную помощь, сокращение времени ожидания в очереди при обращении граждан в&lt;br/&gt;указанные медицинские организации, упрощение процедуры записи на прием к врачу; формирование системы защиты прав пациентов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-59" target="9MHvW2RwUfjwzeiXcqqe-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-59" target="9MHvW2RwUfjwzeiXcqqe-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-59" value="Показатели на 2024 год:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-61" target="9MHvW2RwUfjwzeiXcqqe-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-61" value="Число граждан,&lt;br/&gt;прошедших&lt;br/&gt;профилактические&lt;br/&gt;осмотры, млн. чел" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="900" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-62" value="1,320" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-63" target="9MHvW2RwUfjwzeiXcqqe-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-63" value="Количество медицинских&lt;br/&gt;организаций,&lt;br/&gt;участвующих в создании и&lt;br/&gt;тиражировании «Новой&lt;br/&gt;модели медицинской&lt;br/&gt;организации,&lt;br/&gt;оказывающей первичную&lt;br/&gt;медико-санитарную&lt;br/&gt;помощь», ед.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="980" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-64" value="56" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-65" target="9MHvW2RwUfjwzeiXcqqe-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-65" value="Доля записей к врачу,&lt;br/&gt;совершенных гражданами&lt;br/&gt;без очного обращения в&lt;br/&gt;регистратуру медицинской&lt;br/&gt;организации, %" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1140" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-66" value="65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-67" target="9MHvW2RwUfjwzeiXcqqe-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-67" value="Доля обоснованных жалоб&lt;br/&gt;(от общего количества&lt;br/&gt;поступивших жалоб),&lt;br/&gt;урегулированных в&lt;br/&gt;досудебном порядке&lt;br/&gt;страховыми&lt;br/&gt;медицинскими&lt;br/&gt;организациями, %" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1250" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-68" value="65,5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MHvW2RwUfjwzeiXcqqe-69" target="9MHvW2RwUfjwzeiXcqqe-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-69" value="Доля впервые в жизни установленных неинфекционных заболеваний, выявленных при проведении диспансеризации и профилактическом&lt;br/&gt;медицинском осмотре у взрослого населения, от общего числа неинфекционных заболеваний с впервые установленным диагнозом, %" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1390" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9MHvW2RwUfjwzeiXcqqe-70" value="20,0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
