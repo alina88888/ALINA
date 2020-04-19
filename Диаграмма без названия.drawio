@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2020-04-19T07:35:20.691Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36" version="12.9.10" etag="QcY15EJH989uq1ku9phY" type="github"><diagram id="kyATKa9gg0zEsVbSIy01">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-19T16:54:33.130Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36" etag="JmB12GgrMt-YSwRx6VYj" version="12.9.10" type="github">
+  <diagram id="kyATKa9gg0zEsVbSIy01" name="Страница 1">
+    <mxGraphModel dx="1447" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Онкологические заболевания в ПК&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-2" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Спрос на проведение информационно-коммуникационной&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;&lt;div&gt;&lt;span&gt;кампании, направленной на ранее выявление онкологических заболеваний и&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;&lt;span&gt;повышение приверженности к лечению&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-3" value="&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Спрос на организацию центров амбулаторной&lt;br/&gt;онкологической помощи&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="290" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-4" value="&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Спрос на квалифицированное кадровое обеспечение о&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , &amp;#34;serif&amp;#34;&quot;&gt;нкологической службы&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="490" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oFqXJRGLD5IvD-uhqwSn-3" target="oFqXJRGLD5IvD-uhqwSn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-12" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFqXJRGLD5IvD-uhqwSn-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="380" />
+              <mxPoint x="530" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-13" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFqXJRGLD5IvD-uhqwSn-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-15" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;font face=&quot;times new roman, serif&quot; style=&quot;font-size: 13px&quot;&gt;Число&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;функциональных центров амбулаторной онкологической&lt;br&gt;помощи&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;times new roman, serif&quot; style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="575" y="-80" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;концепция с&lt;br/&gt;определением эффективных способов подачи информации для целевой&lt;br/&gt;аудитории и/или рекламно-информационных материалов (видеоролики, радио-ролики,&lt;br/&gt;интернет-ролики, интернет баннеры, макеты наружной рекламы).&amp;nbsp;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-80" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-17" value="Число квалифицированных специалистов медицинских организаций системы здравоохранения&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , &amp;#34;serif&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-80" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-18" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFqXJRGLD5IvD-uhqwSn-15" target="oFqXJRGLD5IvD-uhqwSn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="160" as="sourcePoint" />
+            <mxPoint x="620" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-19" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFqXJRGLD5IvD-uhqwSn-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="160" as="sourcePoint" />
+            <mxPoint x="670" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="oFqXJRGLD5IvD-uhqwSn-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="320" as="sourcePoint" />
+            <mxPoint x="620" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-22" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFqXJRGLD5IvD-uhqwSn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="410" as="sourcePoint" />
+            <mxPoint x="1040" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFqXJRGLD5IvD-uhqwSn-23" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , &amp;#34;serif&amp;#34;&quot;&gt;Высокий уровень развития онкологических заболеваний в ПК&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="285" width="190" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
